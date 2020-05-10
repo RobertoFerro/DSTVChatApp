@@ -1,0 +1,36 @@
+/* 
+  Localizable.strings
+  MessageMe
+
+  Created by Roberto Ferro on 2020/05/05.
+  Copyright © 2020 Roberto Ferro. All rights reserved.
+*/
+
+//Global Strings
+"button.title.dismiss" = "Dismiss";
+"loading.title.loading" = "Loading";
+
+//Networking Strings
+"invalidDataFailure" = "The data returned was invalid";
+"responseFailure" = "An Network Error Occurred";
+"jsonDecodingFailure" = "The data count not be decoded correctly";
+
+//Login View Controller Strings
+"login.title" = "Login";
+"login.usernamePlaceHolder" = "Enter Username";
+"login.passwordPlaceHolder" = "Enter Password";
+"login.usernameErrorMessage" = "You must enter a username.";
+"login.passwordErrorMessage" = "You must enter a password.";
+"login.serviceCallErrorMessage" = "There was an error loging you in.\nPlease check that your username and password is correct.";
+
+//Friend List Strings
+"friendList.title" = "Friends";
+"friendList.serviceCallErrorMessage" = "There was an error fetching your friends.";
+
+//Error View Strings
+"errorView.title" = "Mmmmmm...";
+
+//Model Strings
+"friend.lastseen.unknown" = "Unknown last seen";
+"friend.lastseen.message" = "Last seen %@ days ago";
+
